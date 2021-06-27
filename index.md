@@ -6,10 +6,11 @@ The school will take place on **September 8-10, 2021** and will be a purely virt
 
 # Speakers and Course Titles
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
+*   Drew P. Kouri (Sandia National Labs): PDE-Constrained Optimization under Uncertainty 
+*   Wim van Ackooij (EDF R&D): Optimization und Uncertainty in Industrial Applications
+*   Alois Pichler (TU Chemnitz): Dynamic/Multistage Stochastic Optimization
+*   Aretha Teckentrup (U Edinburgh): Multilevel Methods for Random PDEs
+*   Claudia Schillings (U Mannheim): Bayesian Inverse Problems
 
 
 <!--
