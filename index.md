@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<!DOCTYPE html>
 <html lang="en-US">
     <head>
     <meta charset="UTF-8">
@@ -19,8 +19,8 @@ layout: default
       <h1 class="project-name">SPP School</h1>
       <h2 class="project-tagline">Uncertainty Quantification and Stochastic Optimization </h2>
       <a href="https://github.com/jasonlong/cayman-theme" class="btn">Register</a>
-      <! -- <a href="https://github.com/jasonlong/cayman-theme/zipball/master" class="btn">Download .zip</a> -->
-      <! -- <a href="https://github.com/jasonlong/cayman-theme/tarball/master" class="btn">Download .tar.gz</a> -->
+      <a href="https://github.com/jasonlong/cayman-theme/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/jasonlong/cayman-theme/tarball/master" class="btn">Download .tar.gz</a>
     </section>
   </body>
 </html>
