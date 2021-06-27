@@ -2,8 +2,9 @@
 layout: default
 ---
 
-The school will take place on **September 8-10, 2021** and will be a purely virtual event hosted by Thomas M. Surowiec at Philipps-Universität Marburg.  Depending on the number of responses, there will be a chance for short presentations by young researchers on at least one of the three days.
+The school will take place on **September 8-10, 2021** and will be a purely virtual event hosted by Thomas M. Surowiec at Philipps-Universität Marburg. Please use this form to register so that we can judge how many people will be attending this (purely virtual) event. A zoom link will be sent via email to all registered individuals. Depending on the number of responses, there will be a chance for short presentations by young researchers on at least one of the three days.
 
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -123,3 +124,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
