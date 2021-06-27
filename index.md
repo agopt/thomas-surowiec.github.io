@@ -2,6 +2,8 @@
 layout: default
 ---
 
+The school will take place on September 8-10, 2021 and will be a purely virtual event hosted by Thomas M. Surowiec at Philipps-Universität Marburg.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
