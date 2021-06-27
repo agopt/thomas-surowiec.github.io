@@ -1,8 +1,5 @@
 theme: jekyll-theme-cayman
-title: >
-DFG-SPP 1962 Fall School
-Optimization under Uncertainty
-September 8-10, 2021 (virtual)
+title: DFG-SPP 1962 Fall School on Optimization under Uncertainty, September 8-10, 2021 (virtual).
 description: Uncertainty Quantification and Stochastic Optimization of Complex Systems 
 show_downloads: true
 google_analytics:
