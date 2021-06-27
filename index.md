@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The school will take place on September 8-10, 2021 and will be a purely virtual event hosted by Thomas M. Surowiec at Philipps-Universität Marburg.
+The school will take place on **September 8-10, 2021** and will be a purely virtual event hosted by Thomas M. Surowiec at Philipps-Universität Marburg.  Depending on the number of responses, there will be a chance for short presentations by young researchers on at least one of the three days.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
