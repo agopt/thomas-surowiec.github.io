@@ -12,14 +12,6 @@ The school will take place on **September 8-10, 2021** and will be a purely virt
 *   [**Aretha Teckentrup (U Edinburgh)**](https://www.maths.ed.ac.uk/~ateckent/): _Multilevel Methods for Random PDEs_
 *   [**Claudia Schillings (U Mannheim)**](https://www.wim.uni-mannheim.de/schillings/): _Bayesian Inverse Problems_
 
-# Speaker Biographies
-
-## Drew P. Kouri
-## Wim van Ackooij
-## Alois Pichler
-## Aretha Teckentrup
-## Claudia Schillings
-
 # Course Descriptions
 
 ## PDE-Constrained Optimization under Uncertainty
@@ -36,6 +28,14 @@ The school will take place on **September 8-10, 2021** and will be a purely virt
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+
+# Speaker Biographies
+
+## Drew P. Kouri
+## Wim van Ackooij
+## Alois Pichler
+## Aretha Teckentrup
+## Claudia Schillings
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
