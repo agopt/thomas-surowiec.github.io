@@ -2,7 +2,7 @@
 layout: default
 ---
 
-The school will take place on **September 8-10, 2021** and will be a purely virtual event hosted by [Thomas M. Surowiec](https://www.mathematik.uni-marburg.de/~surowiec/) at [Philipps-Universität Marburg](https://www.uni-marburg.de/de).  Please use [this form](https://forms.gle/kQrbpkTYHJwCYxDr7) to register so that we can judge how many people will be attending this (purely virtual) event. A zoom link will be sent via email to all registered individuals. Depending on the number of responses, there will be a chance for short presentations by young researchers on at least one of the three days.
+The school will take place on **September 8-10, 2021** and will be a purely virtual event hosted by [Thomas M. Surowiec](https://www.mathematik.uni-marburg.de/~surowiec/) at [Philipps-Universität Marburg](https://www.uni-marburg.de/de).  Please use [this form](https://forms.gle/kQrbpkTYHJwCYxDr7) to register as soon as possible. Depending on the number of responses, there will be a chance for short presentations by young researchers on at least one of the three days. There are **no fees** for this event. A zoom link will be sent via email to all registered individuals once the schedule is finalized. 
 
 # Speakers and Course Titles
 
@@ -22,12 +22,15 @@ The school will take place on **September 8-10, 2021** and will be a purely virt
 
 # Daily Schedule
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| head1         | September 8       | September 9       | September 10       |
+|:--------------|:------------------|:------------------| :------------------|
+| 13:00 - 14:00 | Course 1 Part I   | Course 3 Part I   |  Course 4 Part I   | 
+| 14:00 - 14:15 | Break             | Break             |  Break             | 
+| 14:15 - 15:15 | Course 1 Part II  | Course 3 Part II  |  Course 4 Part II  | 
+| 15:15 - 15:45 | Break             | Break             |  Break             | 
+| 15:45 - 16:45 | Course 2 Part I   | Young Researchers |  Course 5 Part I   | 
+| 16:45 - 17:00 | Break             | Break             |  Break             | 
+| 17:00 - 18:00 | Course 2 Part II  | Open Discussions  |  Course 5 Part II  | 
 
 # Speaker Biographies
 
