@@ -22,7 +22,7 @@ The school will take place on **September 8-10, 2021** and will be a purely virt
 
 # Daily Schedule
 
-| head1         | September 8       | September 9       | September 10       |
+|               | September 8       | September 9       | September 10       |
 |:--------------|:------------------|:------------------| :------------------|
 | 13:00 - 14:00 | Course 1 Part I   | Course 3 Part I   |  Course 4 Part I   | 
 | 14:00 - 14:15 | Break             | Break             |  Break             | 
