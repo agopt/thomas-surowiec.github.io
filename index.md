@@ -12,7 +12,7 @@ The school intends to introduce key components of **uncertainty quantification**
 *   [**Drew P. Kouri (Sandia National Labs)**](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?dpkouri): _PDE-Constrained Optimization under Uncertainty_ 
 *   [**Wim van Ackooij (EDF R&D)**](https://www.researchgate.net/profile/Wim-Ackooij): _Optimization under Uncertainty in Industrial Applications_
 *   [**Alois Pichler (TU Chemnitz)**](https://www-user.tu-chemnitz.de/~alopi/): _Dynamic and Multistage Stochastic Optimization_
-*   [**Aretha Teckentrup (U Edinburgh)**](https://www.maths.ed.ac.uk/~ateckent/): _Multilevel Methods for Random PDEs_
+*   [**Aretha Teckentrup (U Edinburgh)**](https://www.maths.ed.ac.uk/~ateckent/): _Multilevel methods for random partial differential equations_
 *   [**Claudia Schillings (U Mannheim)**](https://www.wim.uni-mannheim.de/schillings/): _Bayesian Inverse Problems_
 
 # Course Descriptions
@@ -33,7 +33,18 @@ Title: “Exploiting Structure in stochastic programming for Energy management�
 In this talk we will discuss how one can draw benefits from having identified specific structure within energy management problems. We will also discuss how lack of convexity can be reasonably palliated by exploiting advantageous decomposition strategies. In particular we will showcase some interesting results obtained when moreover these ideas are combined with classic ideas of Bender’s type decomposition. Beyond the scope of handling uncertainty with recourse, we will also present several recent insights in handling uncertainty through the use of probability constraints. More specifically we will mention recent insights w.r.t. the understanding of “convexity” and differentiability of probability functions.
 
 ## Dynamic/Multistage Stochastic Optimization
-## Multilevel Methods for Random PDEs
+## Multilevel methods for random partial differential equations
+
+Multilevel Monte Carlo methods have become increasingly popular over the last decade, due to their simplicity and their ability to significantly outperform standard Monte Carlo approaches in complex simulation tasks. In this course, we will show how the multilevel methodology can be applied to modelling and simulation using partial differential equations.
+
+The parameters in mathematical models for many physical processes are often impossible to determine fully or accurately, and are hence subject to uncertainty. A particular example is given by the modelling of subsurface flow, where the governing equations are given by Darcy’s law and there is uncertainty in the permeability of the subsurface. By modelling the permeability as a stochastic process, it is possible to quantify the uncertainty also in the model outputs by propagating the uncertainty through the model.
+
+The first part of the course will be introductory, and we will discuss Monte Carlo and multilevel Monte Carlo methods to compute expected values of the model outputs, highlighting the benefits of the multilevel methodology. 
+
+In the second part of the course, we will cover more advanced topics including:
+- multilevel methods based on Quasi-Monte Carlo sampling,
+- multilevel methods for computing higher order moments and probabilities.
+
 ## Bayesian Inverse Problems
 
 # Daily Schedule
@@ -57,6 +68,9 @@ HdR. Dr. Ir. Wim van Ackooij has worked on energy related optimization problems 
 
 ## Alois Pichler
 ## Aretha Teckentrup
+
+Aretha Teckentrup is currently a Lecturer in the Mathematics of Data Science at the University of Edinburgh. Before moving to Edinburgh in 2016, she held postdoctoral positions at the University of Warwick and Florida State University. She obtained her PhD from the University of Bath in 2013. Aretha's research interests are  at  the  interface  of  numerical  analysis,  statistics  and  data  science, with a focus on developing, analysing and implementing methods for efficient uncertainty quantification in complex systems. She has experience in multilevel  sampling  methods, Bayesian inverse problems and Gaussian process regression, among other topics, with applications in geophysics.
+
 ## Claudia Schillings
 
 <!--
