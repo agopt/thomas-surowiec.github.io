@@ -39,6 +39,9 @@ The school intends to introduce key components of **uncertainty quantification**
 
 ## Drew P. Kouri
 ## Wim van Ackooij
+
+HdR. Dr. Ir. Wim van Ackooij has worked on energy related optimization problems for nearly 20 years. His interests are in stochastic optimization and probability constraints. While working for EdF, he obtained his PhD from Ecole Centrale Paris and his Habilitation (à Diriger les Recherches) from Paris Panthéon Sorbonne in 2017. He is currently Expert researcher in Stochastic Optimization for EdF Lab. He has developed and participated in the development, through various collaborations, of new insights in the structural properties of probability functions. Some of the new insights involve convexity of feasible sets to probability constraints, but also new insights in (generalized) differentiability. Further work involves decomposition approaches for large scale stochastic optimization problems. More recently, works involve the trade-off between bilevel programming, nonsmooth and variational analysis and stochastic optimization. He is a member of COSP,  the governing board of the Stochastic Programming Society since 2019.  
+
 ## Alois Pichler
 ## Aretha Teckentrup
 ## Claudia Schillings
