@@ -19,6 +19,19 @@ The school intends to introduce key components of **uncertainty quantification**
 
 ## PDE-Constrained Optimization under Uncertainty
 ## Optimization und Uncertainty in Industrial Applications
+
+Course Part I:
+ 
+Title: “Energy Problems and Uncertainty”
+ 
+In this talk we will sketch the various layers of energy management problems and provide details about the various elements. We will provide a description of some of the available assets and provide insights on some of the key technical features to be accounted for. From a decision making perspective we will discuss the various layers of problems: strategic planning, seasonal storage valuation and short-term operations. At each of these layers there is a need to account for uncertainty and a specific impact of their internal dynamics. We will also discuss how some of the vital uncertainty factors are linked with nature.
+ 
+Course Part II:
+ 
+Title: “Exploiting Structure in stochastic programming for Energy management”
+ 
+In this talk we will discuss how one can draw benefits from having identified specific structure within energy management problems. We will also discuss how lack of convexity can be reasonably palliated by exploiting advantageous decomposition strategies. In particular we will showcase some interesting results obtained when moreover these ideas are combined with classic ideas of Bender’s type decomposition. Beyond the scope of handling uncertainty with recourse, we will also present several recent insights in handling uncertainty through the use of probability constraints. More specifically we will mention recent insights w.r.t. the understanding of “convexity” and differentiability of probability functions.
+
 ## Dynamic/Multistage Stochastic Optimization
 ## Multilevel Methods for Random PDEs
 ## Bayesian Inverse Problems
