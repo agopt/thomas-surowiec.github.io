@@ -33,6 +33,19 @@ Title: “Exploiting Structure in stochastic programming for Energy management�
 In this talk we will discuss how one can draw benefits from having identified specific structure within energy management problems. We will also discuss how lack of convexity can be reasonably palliated by exploiting advantageous decomposition strategies. In particular we will showcase some interesting results obtained when moreover these ideas are combined with classic ideas of Bender’s type decomposition. Beyond the scope of handling uncertainty with recourse, we will also present several recent insights in handling uncertainty through the use of probability constraints. More specifically we will mention recent insights w.r.t. the understanding of “convexity” and differentiability of probability functions.
 
 ## Dynamic/Multistage Stochastic Optimization
+
+Course part I: Risk
+Risk measures, which find their origins in the insurance industry, are a genuine concept for quantifying risk. The first course reviews mathematical properties of risk measures with the idea to have them available for stochastic optimization.
+
+
+Course part II: Multistage and dynamic programming
+
+The dynamic programming principle is well investigated from a mathematical perspective. The Hamiltonian drives the evolution equations, solutions are most often characterized by viscosity solutions. Its stochastic version typically involves the expected value.
+
+This lecture intends to extend the classical setting by incorporating risk in the objective, a risk averse assessment replaces the risk neutral expectation. Parametrizing risk aversion properly in time allows for a non-degenerate and risk averse mathematical setup. The corresponding evolution equation has a modified Hamiltonian, with a new term pointing in the direction of risk. Explicit solutions are available for economic problems as Merton's fraction, which allows a nice interpretation of risk in addition.
+
+
+
 ## Multilevel methods for random partial differential equations
 
 Multilevel Monte Carlo methods have become increasingly popular over the last decade, due to their simplicity and their ability to significantly outperform standard Monte Carlo approaches in complex simulation tasks. In this course, we will show how the multilevel methodology can be applied to modelling and simulation using partial differential equations.
@@ -67,6 +80,9 @@ In the second part of the course, we will cover more advanced topics including:
 HdR. Dr. Ir. Wim van Ackooij has worked on energy related optimization problems for nearly 20 years. His interests are in stochastic optimization and probability constraints. While working for EdF, he obtained his PhD from Ecole Centrale Paris and his Habilitation (à Diriger les Recherches) from Paris Panthéon Sorbonne in 2017. He is currently Expert researcher in Stochastic Optimization for EdF Lab. He has developed and participated in the development, through various collaborations, of new insights in the structural properties of probability functions. Some of the new insights involve convexity of feasible sets to probability constraints, but also new insights in (generalized) differentiability. Further work involves decomposition approaches for large scale stochastic optimization problems. More recently, works involve the trade-off between bilevel programming, nonsmooth and variational analysis and stochastic optimization. He is a member of COSP,  the governing board of the Stochastic Programming Society since 2019.  
 
 ## Alois Pichler
+
+Alois Pichler holds a position with focus in financial mathematics at the technical university of Chemnitz. He is an accredited actuary and graduated in Statistics in Vienna with Prof. Pflug. Before that, he was working in the financial industry. His scientific interests are optimization under uncertainty and risk. Applications of stochastic optimization can often be found in economics, they include managerial problems in finance and energy. His further interests include data science, statistics and risk management.
+
 ## Aretha Teckentrup
 
 Aretha Teckentrup is currently a Lecturer in the Mathematics of Data Science at the University of Edinburgh. Before moving to Edinburgh in 2016, she held postdoctoral positions at the University of Warwick and Florida State University. She obtained her PhD from the University of Bath in 2013. Aretha's research interests are  at  the  interface  of  numerical  analysis,  statistics  and  data  science, with a focus on developing, analysing and implementing methods for efficient uncertainty quantification in complex systems. She has experience in multilevel  sampling  methods, Bayesian inverse problems and Gaussian process regression, among other topics, with applications in geophysics.
