@@ -63,6 +63,8 @@ In the second part of the course, we will cover more advanced topics including:
 
 ## Bayesian Inverse Problems
 
+Uncertainty Quantification (UQ) is an interesting, fast growing research area aimed at developing methods to address the impact of parameter, data and model uncertainty in complex systems. In this course we will focus on the identification of parameters through observations of the response of the system - the inverse problem. The uncertainty in the solution of the inverse problem will be described via the Bayesian approach. We will derive Bayes' theorem in the setting of finite dimensional parameter spaces, and discuss properties such as well-posedness, statistical estimates and connections to classical regularization methods. We will briefly examine the extension of the Bayesian approach to the infinite dimensional setting. The remainder of this course will be devoted to algorithms for the efficient approximation of the solution of the Bayes inverse problem.
+
 # Daily Schedule
 
 |               | September 8       | September 9       | September 10       |
