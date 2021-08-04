@@ -97,6 +97,8 @@ Aretha Teckentrup is currently a Lecturer in the Mathematics of Data Science at 
 
 ## Claudia Schillings
 
+Claudia is Professor in Mathematical Optimization at the Institute for Mathematics, University of Mannheim. Her research interests focus on the development of efficient methods for large- scale optimization problems in the presence of uncertainty in measurements, models and parameters. Claudia received her PhD degree from the Department of Mathematics, University of Trier (Germany) in 2011. After two and half years of postdoctoral activity at ETH Zurich (Switzerland) and two years at the University of Warwick (UK), she was visiting professor at the Humboldt University Berlin (Germany) in 2015 - 2016 and then moved to Mannheim in 2017. She has been working on a unified framework for the proper treatment of uncertainties in inverse and optimization problems for complex applications. Recent work includes the design of preconditioners for sampling techniques in the small noise or large data limit, data-informed approximations of the underlying model and the analysis of particle based methods for inverse problems.
+
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
