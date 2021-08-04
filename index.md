@@ -18,6 +18,9 @@ The school intends to introduce key components of **uncertainty quantification**
 # Course Descriptions
 
 ## PDE-Constrained Optimization under Uncertainty
+
+Many problems in science and engineering can be formulated as optimization problems governed by a system of partial differential equations (PDEs); for example, the design of a load-bearing elastic system or the control of fluid flow in an oil reservoir.  In virtually all applications, parameters of the PDE system cannot be fully characterized, leading to uncertainty that must be accounted for in the optimization problem formulation.  In the first part of this course, we will motivate this class of PDE-constrained optimization problems with numerous engineering applications, paying particular attention to the definition and quantification of risk.  Moreover, we will provide an introductory discussion of the associated mathematical challenges.  In the second part, we will discuss the numerical solution of this class of problems.  In particular, we will discuss the popular stochastic gradient and sample average approximation approaches.  We will also discuss more advanced, structure-exploiting optimization methods based on adaptive approximation and dual regularization.
+
 ## Optimization und Uncertainty in Industrial Applications
 
 Course Part I:
@@ -75,6 +78,9 @@ In the second part of the course, we will cover more advanced topics including:
 # Speaker Biographies
 
 ## Drew P. Kouri
+
+Drew Kouri is a Principal Member of Technical Staff in the Optimization and Uncertainty Quantification Department at Sandia National Laboratories. He received his BS and MS (2008) in mathematics from Case Western Research University, and his MA (2010) and PhD (2012) in computational and applied mathematics from Rice University. Before joining Sandia, he was the J. H. Wilkinson Fellow at Argonne National Laboratory. His research focuses on the analysis and numerical solution of PDE-constrained optimization and stochastic programming problems.
+
 ## Wim van Ackooij
 
 HdR. Dr. Ir. Wim van Ackooij has worked on energy related optimization problems for nearly 20 years. His interests are in stochastic optimization and probability constraints. While working for EdF, he obtained his PhD from Ecole Centrale Paris and his Habilitation (à Diriger les Recherches) from Paris Panthéon Sorbonne in 2017. He is currently Expert researcher in Stochastic Optimization for EdF Lab. He has developed and participated in the development, through various collaborations, of new insights in the structural properties of probability functions. Some of the new insights involve convexity of feasible sets to probability constraints, but also new insights in (generalized) differentiability. Further work involves decomposition approaches for large scale stochastic optimization problems. More recently, works involve the trade-off between bilevel programming, nonsmooth and variational analysis and stochastic optimization. He is a member of COSP,  the governing board of the Stochastic Programming Society since 2019.  
